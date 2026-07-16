@@ -25,7 +25,7 @@ This project is a responsive Personal Portfolio Website created as part of my We
 ## Deployment
 The project can be deployed using:
 - GitHub Pages
-- Netlify
+
 
 ## Project Outcome
 A professional and responsive portfolio website that effectively showcases personal information, technical skills, projects, and contact details.
